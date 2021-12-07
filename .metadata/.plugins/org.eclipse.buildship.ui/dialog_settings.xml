@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="C:\Users\KO20202733\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\wiproassign"/>
+		<item key="use_default_location" value="true"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C:\Users\KO20202733\gradle-6.8.3))"/>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="C:\Users\KO20202733\Downloads\cai-service-edm-feature_US2767615_junit\cai-service-edm-feature_US2767615_junit"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C:\Users\KO20202733\gradle-6.8.3))"/>
+		<item key="java_home" value="C:\Program Files\Java\jdk1.8.0_291"/>
+		<item key="gradle_user_home" value="C:\Users\KO20202733\gradle-6.8.3"/>
+	</section>
+</section>
